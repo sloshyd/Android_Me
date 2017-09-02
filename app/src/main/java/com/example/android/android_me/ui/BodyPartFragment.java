@@ -1,4 +1,4 @@
-package com.example.android.android_me;
+package com.example.android.android_me.ui;
 
 
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+import com.example.android.android_me.R;
 import com.example.android.android_me.data.AndroidImageAssets;
 
 
